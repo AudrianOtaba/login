@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027861738134",
+    "project_id": "login-1d06a",
+    "storage_bucket": "login-1d06a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027861738134:android:79d306e863b5734e4e48b7",
+        "android_client_info": {
+          "package_name": "com.audrian.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027861738134-cp74gkc9g9scfd5of3qcnrk247cgna3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYoEKQd76g9dY1kz0l_9meWe-LxPsMd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027861738134-cp74gkc9g9scfd5of3qcnrk247cgna3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
